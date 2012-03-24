@@ -1,4 +1,1 @@
 A simple tf*idf based full text search engine using Redis
-
-Author: Vivek Narayanan
-License: BSD
